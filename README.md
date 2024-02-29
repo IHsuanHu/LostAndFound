@@ -1,7 +1,8 @@
-# Lost-and-Found
+# Lost and Found
 
-You will need django to run this 
-$pip install django   #to install django
-$python -m django --version   #to check django version
+### This is course project, SSW 540 Fundamentals of Software Engineering. This project used agile methodology to developed a 'Lost and Found' system to Stevens library, and this project used Django as backend.
 
-$python manage.py runserver #this will start the webapp
+<p>You will need django to run this</p>
+<p>$pip install django   //to install django</p>
+
+<p>$python manage.py runserver  //this will start the webapp</p>
